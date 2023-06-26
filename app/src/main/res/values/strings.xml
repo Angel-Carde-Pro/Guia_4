@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guia_4</string>
+    <string name="buscar">Buscar</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Título">Título</string>
+    <string name="Cuerpo">Cuerpo</string>
+    <string name="Enviar">Enviar</string>
+    <string name="GuiaEjercicio">GUIA 4</string>
+</resources>
